@@ -1,5 +1,6 @@
 # Club-INSEA_TV-PHP-Project
-Simple beautiful ^_^ PHP, CSS Website with login inerface 
+Simple beautiful ^_^ PHP, CSS3,HTML5
+Website with login inerface 
  
  # How to run 
  ```
