@@ -1,0 +1,70 @@
+
+.body
+{
+  background-image:url("images/intro-bg.jpg");
+  position:absolute;
+  top:160px;
+  left:450px;
+}
+.entre
+{
+  color:white;
+  font-size: 20px;
+  font-family: "PANAMA"
+}
+form
+{
+    padding:60px;
+    width:500px;
+}
+fieldset {
+    padding:0 20px 20px 20px;
+    margin-bottom:10px;
+    border:2px solid white;
+}
+legend {
+    color:white;
+    font-weight:bold
+}
+label {
+    margin-top:10px;
+    display:block;
+}
+label.inline {
+    display:inline;
+    margin-right:50px;
+}
+input, textarea, select, option {
+    background-color:white;
+}
+input, textarea, select {
+    padding:3px;
+    border:1px solid #F5C5C5;
+    border-radius:5px;
+    width:200px;
+    box-shadow:1px 1px 2px  white inset;
+}
+select {
+    margin-top:10px;
+}
+input[type=radio] {
+    background-color:transparent;
+    border:none;
+    width:30px;
+}
+input[type=checkbox] {
+    background-color:transparent;
+    border:none;
+    width:30px;
+}
+input[type=submit], input[type=reset] {
+    width:150px;
+    margin-left:5px;
+    box-shadow:1px 1px 1px #D83F3D;
+    cursor:pointer;
+}
+p
+{
+    color:white;
+    font-size: larger;
+}
